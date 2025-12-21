@@ -1,0 +1,17 @@
+# Projet Diagnostic Radiologique Thoracique
+
+**Auteur** : Chahnez Cherif  
+**Encadrant** : Pr. Hela Ltifi  
+**Date** : Décembre 2025
+
+## Description
+Système intelligent d'aide au diagnostic radiologique avec interface explicable (Grad-CAM++).
+
+- Modèle : ConvNeXt-Tiny fine-tuné sur ChestX-ray14 (AUC moyen 0.7368)
+- Interface : Streamlit (app.py)
+- Explicabilité : Grad-CAM++ pour localisation des anomalies
+
+## Lancement
+1. Installer les dépendances :
+   ```bash
+   pip install -r requirements.txt
