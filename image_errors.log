@@ -1,0 +1,16 @@
+2025-10-21 22:21:37,445 - WARNING - Images manquantes : 107105 fichiers
+2025-10-21 22:21:37,453 - WARNING -  - 00018254_005.png
+2025-10-21 22:21:37,454 - WARNING -  - 00015033_000.png
+2025-10-21 22:21:37,454 - WARNING -  - 00002376_002.png
+2025-10-21 22:21:37,454 - WARNING -  - 00003755_002.png
+2025-10-21 22:21:37,454 - WARNING -  - 00017511_004.png
+2025-10-21 22:21:37,454 - WARNING -  - 00005612_009.png
+2025-10-21 22:21:37,454 - WARNING -  - 00018055_023.png
+2025-10-21 22:21:37,454 - WARNING -  - 00008183_001.png
+2025-10-21 22:21:37,454 - WARNING -  - 00026439_003.png
+2025-10-21 22:21:37,454 - WARNING -  - 00028285_010.png
+2025-12-04 21:24:11,773 - WARNING - 112104 images manquantes \u2192 supprimées
+2025-12-04 21:30:08,811 - WARNING - 112104 images manquantes \u2192 supprimées
+2025-12-04 22:27:56,080 - WARNING - 107105 images référencées mais ABSENTES dans le dossier
+2025-12-04 22:28:30,093 - WARNING - Pathologies trop rares (< 50 cas) supprimées : ['Hernia']
+2025-12-04 22:29:02,421 - WARNING - 17 lignes sans aucune pathologie \u2192 seront retirées

@@ -1,0 +1,92 @@
+2025-12-08 20:50:36,357 - INFO - Démarrage du nettoyage ChestX-ray14
+2025-12-08 20:51:25,040 - INFO - CSV chargé : (112120, 12)
+2025-12-08 20:51:25,596 - WARNING - 107105 images manquantes → supprimées
+2025-12-08 20:51:25,710 - INFO - Images valides après filtrage : 4999
+2025-12-08 20:51:25,785 - INFO - === RÉPARTITION FINALE ===
+2025-12-08 20:51:25,788 - INFO - Atelectasis          :    460 cas ( 9.20%)
+2025-12-08 20:51:25,789 - INFO - Consolidation        :    205 cas ( 4.10%)
+2025-12-08 20:51:25,791 - INFO - Infiltration         :    830 cas (16.60%)
+2025-12-08 20:51:25,794 - INFO - Pneumothorax         :    199 cas ( 3.98%)
+2025-12-08 20:51:25,800 - INFO - Edema                :     90 cas ( 1.80%)
+2025-12-08 20:51:25,802 - INFO - Emphysema            :    125 cas ( 2.50%)
+2025-12-08 20:51:25,804 - INFO - Fibrosis             :    172 cas ( 3.44%)
+2025-12-08 20:51:25,808 - INFO - Effusion             :    487 cas ( 9.74%)
+2025-12-08 20:51:25,812 - INFO - Pneumonia            :     65 cas ( 1.30%)
+2025-12-08 20:51:25,814 - INFO - Pleural_Thickening   :    165 cas ( 3.30%)
+2025-12-08 20:51:25,819 - INFO - Cardiomegaly         :    196 cas ( 3.92%)
+2025-12-08 20:51:25,822 - INFO - Nodule               :    214 cas ( 4.28%)
+2025-12-08 20:51:25,825 - INFO - Mass                 :    161 cas ( 3.22%)
+2025-12-08 20:51:25,827 - INFO - Hernia               :     27 cas ( 0.54%)
+2025-12-08 20:51:25,830 - INFO - Normal               :   2754 cas (55.09%)
+2025-12-08 20:52:00,218 - INFO - Nettoyage terminé ! → c:\Users\Asus\Diagnostic-Radiologique\data\processed\chestxray14_clean.csv
+2025-12-08 20:52:00,219 - INFO - Images finales : 4999
+2025-12-08 20:53:00,939 - INFO - Démarrage du nettoyage ChestX-ray14
+2025-12-08 20:53:01,249 - INFO - CSV chargé : (112120, 12)
+2025-12-08 20:53:01,421 - WARNING - 107105 images manquantes → supprimées
+2025-12-08 20:53:01,524 - INFO - Images valides après filtrage : 4999
+2025-12-08 20:53:01,594 - INFO - === RÉPARTITION FINALE ===
+2025-12-08 20:53:01,596 - INFO - Atelectasis          :    460 cas ( 9.20%)
+2025-12-08 20:53:01,599 - INFO - Consolidation        :    205 cas ( 4.10%)
+2025-12-08 20:53:01,604 - INFO - Infiltration         :    830 cas (16.60%)
+2025-12-08 20:53:01,606 - INFO - Pneumothorax         :    199 cas ( 3.98%)
+2025-12-08 20:53:01,611 - INFO - Edema                :     90 cas ( 1.80%)
+2025-12-08 20:53:01,613 - INFO - Emphysema            :    125 cas ( 2.50%)
+2025-12-08 20:53:01,615 - INFO - Fibrosis             :    172 cas ( 3.44%)
+2025-12-08 20:53:01,617 - INFO - Effusion             :    487 cas ( 9.74%)
+2025-12-08 20:53:01,619 - INFO - Pneumonia            :     65 cas ( 1.30%)
+2025-12-08 20:53:01,622 - INFO - Pleural_Thickening   :    165 cas ( 3.30%)
+2025-12-08 20:53:01,651 - INFO - Cardiomegaly         :    196 cas ( 3.92%)
+2025-12-08 20:53:01,653 - INFO - Nodule               :    214 cas ( 4.28%)
+2025-12-08 20:53:01,656 - INFO - Mass                 :    161 cas ( 3.22%)
+2025-12-08 20:53:01,659 - INFO - Hernia               :     27 cas ( 0.54%)
+2025-12-08 20:53:01,663 - INFO - Normal               :   2754 cas (55.09%)
+2025-12-08 20:53:01,749 - INFO - Nettoyage terminé ! → c:\Users\Asus\Diagnostic-Radiologique\data\processed\chestxray14_clean.csv
+2025-12-08 20:53:01,752 - INFO - Images finales : 4999
+2025-12-08 20:53:01,963 - WARNING - Pathologies trop rares (< 50 cas) supprimées : ['Hernia']
+2025-12-08 20:53:01,989 - INFO - === RÉSUMÉ FINAL DU DATASET NETTOYÉ ===
+2025-12-08 20:53:01,991 - INFO - Nombre total d'images : 4999
+2025-12-08 20:53:02,001 - INFO - Répartition par genre : 
+Patient Gender
+M    2608
+F    2391
+2025-12-08 20:53:02,009 - INFO - Âge moyen ± écart-type : 51.8 ± 17.0 ans
+2025-12-08 20:53:02,012 - INFO - 
+Nombre de cas par pathologie :
+2025-12-08 20:53:02,015 - INFO -   Atelectasis          :    460 cas
+2025-12-08 20:53:02,017 - INFO -   Cardiomegaly         :    196 cas
+2025-12-08 20:53:02,020 - INFO -   Effusion             :    487 cas
+2025-12-08 20:53:02,023 - INFO -   Infiltration         :    830 cas
+2025-12-08 20:53:02,025 - INFO -   Mass                 :    161 cas
+2025-12-08 20:53:02,029 - INFO -   Nodule               :    214 cas
+2025-12-08 20:53:02,031 - INFO -   Pneumonia            :     65 cas
+2025-12-08 20:53:02,034 - INFO -   Pneumothorax         :    199 cas
+2025-12-08 20:53:02,036 - INFO -   Consolidation        :    205 cas
+2025-12-08 20:53:02,038 - INFO -   Edema                :     90 cas
+2025-12-08 20:53:02,041 - INFO -   Emphysema            :    125 cas
+2025-12-08 20:53:02,043 - INFO -   Fibrosis             :    172 cas
+2025-12-08 20:53:02,045 - INFO -   Pleural_Thickening   :    165 cas
+2025-12-08 20:53:02,063 - WARNING - 17 lignes sans aucune pathologie → seront retirées
+2025-12-08 20:53:02,142 - INFO - Dataset nettoyé sauvegardé avec succès → c:\Users\Asus\Diagnostic-Radiologique\data\processed\chestxray14_clean.csv
+2025-12-08 20:53:02,144 - INFO - Colonnes finales : ['Image Index', 'Patient Age', 'Patient Gender', 'Patient ID', 'Atelectasis', 'Cardiomegaly', 'Effusion', 'Infiltration', 'Mass', 'Nodule', 'Pneumonia', 'Pneumothorax', 'Consolidation', 'Edema', 'Emphysema', 'Fibrosis', 'Pleural_Thickening', 'Normal']
+2025-12-08 20:53:17,465 - INFO - Démarrage du nettoyage ChestX-ray14
+2025-12-08 20:53:17,804 - INFO - CSV chargé : (112120, 12)
+2025-12-08 20:53:17,982 - WARNING - 107105 images manquantes → supprimées
+2025-12-08 20:53:18,099 - INFO - Images valides après filtrage : 4999
+2025-12-08 20:53:18,154 - INFO - === RÉPARTITION FINALE ===
+2025-12-08 20:53:18,156 - INFO - Atelectasis          :    460 cas ( 9.20%)
+2025-12-08 20:53:18,157 - INFO - Consolidation        :    205 cas ( 4.10%)
+2025-12-08 20:53:18,160 - INFO - Infiltration         :    830 cas (16.60%)
+2025-12-08 20:53:18,163 - INFO - Pneumothorax         :    199 cas ( 3.98%)
+2025-12-08 20:53:18,166 - INFO - Edema                :     90 cas ( 1.80%)
+2025-12-08 20:53:18,168 - INFO - Emphysema            :    125 cas ( 2.50%)
+2025-12-08 20:53:18,170 - INFO - Fibrosis             :    172 cas ( 3.44%)
+2025-12-08 20:53:18,173 - INFO - Effusion             :    487 cas ( 9.74%)
+2025-12-08 20:53:18,176 - INFO - Pneumonia            :     65 cas ( 1.30%)
+2025-12-08 20:53:18,179 - INFO - Pleural_Thickening   :    165 cas ( 3.30%)
+2025-12-08 20:53:18,181 - INFO - Cardiomegaly         :    196 cas ( 3.92%)
+2025-12-08 20:53:18,183 - INFO - Nodule               :    214 cas ( 4.28%)
+2025-12-08 20:53:18,187 - INFO - Mass                 :    161 cas ( 3.22%)
+2025-12-08 20:53:18,190 - INFO - Hernia               :     27 cas ( 0.54%)
+2025-12-08 20:53:18,194 - INFO - Normal               :   2754 cas (55.09%)
+2025-12-08 20:53:18,275 - INFO - Nettoyage terminé ! → c:\Users\Asus\Diagnostic-Radiologique\data\processed\chestxray14_clean.csv
+2025-12-08 20:53:18,279 - INFO - Images finales : 4999
